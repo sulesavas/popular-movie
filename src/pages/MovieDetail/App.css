@@ -1,0 +1,22 @@
+.md-title {
+    background-color: #252625;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.md-card {
+    background-color: #787a78 !important;
+    width: 400px;
+    height: 400px;
+
+}
+.type-title {
+    background-color:#252625;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+.type-p {
+    text-align:center;
+    
+}
